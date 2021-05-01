@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: video
+Version: 4.0.0
+Summary: for sending opencv video from socket 
+Home-page: UNKNOWN
+Author: Umang Shrestha
+Author-email: umangshrestha09@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8
